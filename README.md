@@ -7,9 +7,9 @@
 :---: | :---: | :---: | :---: | :---: | 
 채채([@chaehyuns](https://github.com/chaehyuns)) | 에디([@junjange](https://github.com/junjange)) | 채드([@dpcks0509](https://github.com/dpcks0509)) | 서기([@Namyunsuk](https://github.com/Namyunsuk)) | 올리브([@kimhm0728](https://github.com/kimhm0728))
 
-<img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/ddb32162-b497-4455-af10-7bda2281abc1"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/faa322ca-ad99-4994-9d0e-c8bd1bf3237a"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/b80e2a6b-08e0-46e5-bd61-db1ba4e72d58"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/a2ed51c2-3a26-4916-8fa0-9079ceb63261"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/bbc9a546-a1f3-493c-a1bc-2b4e8b53b303">
-:---: | :---: | :---: | :---: | :---: | 
-하디([@ii2001](https://github.com/ii2001)) | 호두([@Junyoung-WON](https://github.com/Junyoung-WON)) | 예니([@JoYehyun99](https://github.com/JoYehyun99)) | 꼬상([@kkosang](https://github.com/kkosang)) | 누누([@jinuemong](https://github.com/jinuemong))
+<img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/ddb32162-b497-4455-af10-7bda2281abc1"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/faa322ca-ad99-4994-9d0e-c8bd1bf3237a"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/b80e2a6b-08e0-46e5-bd61-db1ba4e72d58"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/a2ed51c2-3a26-4916-8fa0-9079ceb63261"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/bbc9a546-a1f3-493c-a1bc-2b4e8b53b303"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/5f1f0da7-b745-4c83-b474-042cc4cc48e0">
+:---: | :---: | :---: | :---: | :---: |  :---: | 
+하디([@ii2001](https://github.com/ii2001)) | 호두([@Junyoung-WON](https://github.com/Junyoung-WON)) | 예니([@JoYehyun99](https://github.com/JoYehyun99)) | 꼬상([@kkosang](https://github.com/kkosang)) | 누누([@jinuemong](https://github.com/jinuemong)) | 레오([@jaeyeongjo](https://github.com/jaeyeongjo))
 
 
 ## 📌 규칙
