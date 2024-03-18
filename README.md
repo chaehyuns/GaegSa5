@@ -7,9 +7,9 @@
 :---: | :---: | :---: | :---: | :---: | 
 채채([@chaehyuns](https://github.com/chaehyuns)) | 에디([@junjange](https://github.com/junjange)) | 채드([@dpcks0509](https://github.com/dpcks0509)) | 서기([@Namyunsuk](https://github.com/Namyunsuk)) | 올리브([@kimhm0728](https://github.com/kimhm0728))
 
-<img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/ddb32162-b497-4455-af10-7bda2281abc1"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/faa322ca-ad99-4994-9d0e-c8bd1bf3237a"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/b80e2a6b-08e0-46e5-bd61-db1ba4e72d58"> 
-:---: | :---: | :---: | 
-하디([@ii2001](https://github.com/ii2001)) | 호두([@Junyoung-WON](https://github.com/Junyoung-WON)) | 예니([@JoYehyun99](https://github.com/JoYehyun99)) 
+<img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/ddb32162-b497-4455-af10-7bda2281abc1"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/faa322ca-ad99-4994-9d0e-c8bd1bf3237a"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/b80e2a6b-08e0-46e5-bd61-db1ba4e72d58"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/a2ed51c2-3a26-4916-8fa0-9079ceb63261"> | <img height="100" alt="image" src="https://github.com/chaehyuns/GaegSa5/assets/80222352/bbc9a546-a1f3-493c-a1bc-2b4e8b53b303">
+:---: | :---: | :---: | :---: | :---: | 
+하디([@ii2001](https://github.com/ii2001)) | 호두([@Junyoung-WON](https://github.com/Junyoung-WON)) | 예니([@JoYehyun99](https://github.com/JoYehyun99)) | 꼬상([@kkosang](https://github.com/kkosang) | 누누([@jinuemong](https://github.com/jinuemong))
 
 
 ## 📌 규칙
@@ -21,7 +21,7 @@
 - 내용 정리, 얘기하고 싶은 내용, 의문이 들었던 부분을 정리한다.
 - 자신의 브랜치를 생성한 후 README.md를 생성한다.
 - 커밋과 PR은 **스터디 전까지** 올린다.
-- 책을 읽지 못한 경우 사랑이 담긴 꿀밤🍯을 기쁜 마음으로 받아드린다.
+- 책을 읽지 못한 경우 사랑이 담긴 꿀밤🍯을 기쁜 마음으로 받아들인다.
 - 폴더 구조 : `{n}장-제목 / {본인_닉네임}.md`
 
 ```
